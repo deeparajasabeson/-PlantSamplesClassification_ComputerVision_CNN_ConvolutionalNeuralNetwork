@@ -29,4 +29,3 @@ The Aarhus University Signal Processing group, in collaboration with the Univers
 	• Shepherds Purse
 	• Small-flowered Cranesbill
 	• Sugar beet
-<img width="1193" height="1846" alt="image" src="https://github.com/user-attachments/assets/e5618c2e-01a1-46a2-a4aa-815f01bf4380" />
